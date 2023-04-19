@@ -1,4 +1,4 @@
-name: 'UUID Action'
+name: 'UUID Action-fork-node-16'
 description: 'Generate UUIDs.'
 inputs:
   name:
